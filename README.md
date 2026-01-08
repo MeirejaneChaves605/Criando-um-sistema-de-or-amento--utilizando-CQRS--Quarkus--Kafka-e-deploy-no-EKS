@@ -1,0 +1,1 @@
+# Criando-um-sistema-de-or-amento--utilizando-CQRS--Quarkus--Kafka-e-deploy-no-EKS
